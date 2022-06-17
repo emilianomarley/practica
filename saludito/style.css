@@ -1,0 +1,19 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+h1
+{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    text-align:center;
+}
+h2
+{
+    background-color: red;
+    color: wheat;
+    padding: 5px;
+    text-align:center;
+}
